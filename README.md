@@ -6,3 +6,7 @@ Install Python Modules:
  `pip3 install -r requirements.txt`
  
  Simply run `main.py` and watch an AI start training itself to play the Flappy Bird Game!
+
+## Demo
+
+![enter image description here](https://raw.githubusercontent.com/imabhisht/Flappy-Bird-AI-Game/master/flappybird.gif)
